@@ -1,17 +1,14 @@
 # APIs
 
-https://ipgeolocation.io/
+This document provides a list of useful APIs for various purposes.
 
+## Geolocation APIs
 
-https://ipgeolocation.io/
+- [IP Geolocation API](https://ipgeolocation.io/)
+- [IP Geolocation API](https://ipgeolocation.io/)
+- [IP-API](https://ip-api.com/)
 
+## Additional Resources
 
-https://ip-api.com/
-
-
-
-https://app.tavily.com/home
-
-
-https://free-for.dev/#/?id=free-fordev
-
+- [Tavily](https://app.tavily.com/home): A versatile tool for various applications.
+- [Free-for.dev](https://free-for.dev/#/?id=free-fordev): A comprehensive list of free resources for developers.
