@@ -12,3 +12,4 @@ This document provides a list of useful APIs for various purposes.
 
 - [Tavily](https://app.tavily.com/home): A versatile tool for various applications.
 - [Free-for.dev](https://free-for.dev/#/?id=free-fordev): A comprehensive list of free resources for developers.
+- [Free-for.dev](https://animate.style/): A comprehensive list of free resources for developers.
