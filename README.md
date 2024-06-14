@@ -1,6 +1,4 @@
-# APIs
-
-This document provides a list of useful APIs for various purposes.
+# Useful APIs and Resources
 
 ## Geolocation APIs
 
@@ -13,15 +11,10 @@ This document provides a list of useful APIs for various purposes.
 - [Tavily](https://app.tavily.com/home): A versatile tool for various applications.
 - [Free-for.dev](https://free-for.dev/#/?id=free-fordev): A comprehensive list of free resources for developers.
 
-https://animate.style/
+## Animation and Scrolling Libraries
 
-- https://barba.js.org/
-
-
-https://dixonandmoe.com/rellax/
-
-
-https://michalsnik.github.io/aos/
-
-
-https://locomotivemtl.github.io/locomotive-scroll/
+- [Animate.css](https://animate.style/): A library for CSS animations.
+- [Barba.js](https://barba.js.org/): A library for creating smooth transitions between website pages.
+- [Rellax](https://dixonandmoe.com/rellax/): A lightweight JavaScript parallax library.
+- [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/): A library for animating elements on scroll.
+- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/): A library for smooth scrolling and parallax effects.
