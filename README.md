@@ -19,3 +19,8 @@
 - [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/): A library for animating elements on scroll.
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/): A library for smooth scrolling and parallax effects.
 https://quickref.me/index.html
+
+
+https://colorhunt.co/palette/eeeeee686d76373a40dc5f00
+
+https://colourcontrast.cc/ccff6b/222222
