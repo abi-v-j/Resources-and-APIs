@@ -39,3 +39,7 @@ http://paperjs.org/
 
 https://ptsjs.org/
 https://sarcadass.github.io/granim.js/
+
+https://sapiens.ui8.net/6f3c3c2
+https://coolors.co/
+https://nohat.cc/
