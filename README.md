@@ -34,5 +34,8 @@
 https://react-pdf.org/
 
 https://animejs.com/
+http://paperjs.org/
 
+
+https://ptsjs.org/
 https://sarcadass.github.io/granim.js/
