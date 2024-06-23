@@ -21,6 +21,16 @@
 https://quickref.me/index.html
 
 
-https://colorhunt.co/palette/eeeeee686d76373a40dc5f00
+https://colorhunt.co/
 
-https://colourcontrast.cc/ccff6b/222222
+
+
+
+https://www.npmjs.com/package/typewriter-effect
+
+https://colourcontrast.cc
+
+
+
+
+https://www.npmjs.com/package/react-parallax-tilt
