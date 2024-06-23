@@ -32,3 +32,7 @@
 
 
 https://react-pdf.org/
+
+https://animejs.com/
+
+https://sarcadass.github.io/granim.js/
