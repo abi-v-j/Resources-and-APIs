@@ -138,6 +138,12 @@ This repository contains a curated list of APIs, libraries, and tools for develo
 
 ---
 
+https://www.npmjs.com/package/haversine
+
+
+
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
