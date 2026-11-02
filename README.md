@@ -106,6 +106,9 @@ This repository contains a curated list of APIs, libraries, and tools for develo
 
 ## Development Resources
 
+- **[Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json)**  
+  Retrieve one daily experience, image and source URL without an API key; Dutch by default.
+
 - **[Tavily](https://app.tavily.com/home)**  
   A versatile tool for various applications.
 
